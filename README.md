@@ -10,6 +10,8 @@ We want to answer the following questions:
 - How is their performance compared to that achieved by simpler models?
 - How can we intepret FreTS and can we replicate the results ?
 
+## Acknowledgments
+
 The main papers we consider for our project are the following:
 - FreTS: https://neurips.cc/virtual/2023/poster/70726
 - Transformers effectivness in LTSF: https://arxiv.org/abs/2205.13504
