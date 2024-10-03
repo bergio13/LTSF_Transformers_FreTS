@@ -12,7 +12,7 @@ We want to answer the following questions:
 
 The main papers we consider for our project are the following:
 - FreTS: https://neurips.cc/virtual/2023/poster/70726
-- Transformers effectivness: https://arxiv.org/abs/2205.13504
+- Transformers effectivness in LTSF: https://arxiv.org/abs/2205.13504
   
 Code sources:
 - FreTS: https://github.com/aikunyi/FreTS
