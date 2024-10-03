@@ -1,7 +1,5 @@
 # Are Transformers really the best choice for Long Time Series Forecasting ? What about FreTS ?
 
-[embed]https://github.com/bergio13/LTSF_Transformers_FreTS/blob/main/presentation.pdf[/embed]
-
 Project realized for the *Statistical Learning* course of the Master Degree in Data Science at *Sapienza University*.   
 
 In our project we want to compare the performance of various models, from the simplest to the most advanced, to conduct Long Time Series Forecasting. Moreover, we want to replicate the results and undesrtand a model, **FreTS**, proposed at **NeurIPS 2023** which is the state of the art for time series forecasting.
@@ -20,3 +18,9 @@ The main papers we consider for our project are the following:
   
 Additionally, some code is taken from:
 - FreTS: https://github.com/aikunyi/FreTS
+
+## Group Members
+- https://github.com/bergio13
+- https://github.com/gianluca-24
+- https://github.com/Himel1996
+- https://github.com/parlanti
