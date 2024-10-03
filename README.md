@@ -1,6 +1,6 @@
 # Are Transformers really the best choice for Long Time Series Forecasting ? What about FreTS ?
 
-![Project Presentation](https://github.com/bergio13/LTSF_Transformers_FreTS/blob/main/presentation.pdf)
+[embed](https://github.com/bergio13/LTSF_Transformers_FreTS/blob/main/presentation.pdf)[/embed]
 
 Project realized for the *Statistical Learning* course of the Master Degree in Data Science at *Sapienza University*.   
 
