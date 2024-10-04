@@ -2,7 +2,7 @@
 
 Project realized for the *Statistical Learning* course of the Master Degree in Data Science at *Sapienza University of Rome*.   
 
-In our project we want to compare the performance of various models, from the simplest to the most advanced, to conduct Long Time Series Forecasting. Moreover, we want to replicate the results and undesrtand a model, **FreTS**, proposed at **NeurIPS 2023** which is the state of the art for time series forecasting.
+In our project we want to compare the performance of various models, from the simplest to the most advanced, to conduct Long Time Series Forecasting. Moreover, we want to replicate the results and undesrtand a model, **FreTS**, proposed at **NeurIPS-2023** which is the state of the art for time series forecasting.
 
 We want to answer the following questions:
 
