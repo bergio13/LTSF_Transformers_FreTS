@@ -11,11 +11,11 @@ We want to answer the following questions:
 - How can we intepret FreTS and can we replicate the results ?
 
 <div align="center">
-    <img src="https://github.com/bergio13/LTSF_Transformers_FreTS/blob/main/plots/Exhange-1-frets.png" style="width: 50%;" alt="FreTS Forecast - Exchange 1" />
+    <img src="https://github.com/bergio13/LTSF_Transformers_FreTS/blob/main/plots/Exhange-1-frets.png" style="width: 60%;" alt="FreTS Forecast - Exchange 1" />
 </div>
 
 <div align="center">
-    <img src="https://github.com/bergio13/LTSF_Transformers_FreTS/blob/main/plots/Exchange-1.png" style="width: 50%;" alt="Other models Forecasts - Exchange 1" />
+    <img src="https://github.com/bergio13/LTSF_Transformers_FreTS/blob/main/plots/Exchange-1.png" style="width: 60%;" alt="Other models Forecasts - Exchange 1" />
 </div>
 
 ## Acknowledgments
