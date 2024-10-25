@@ -10,6 +10,14 @@ We want to answer the following questions:
 - How is their performance compared to that achieved by simpler models?
 - How can we intepret FreTS and can we replicate the results ?
 
+<div align="center">
+    <img src="https://github.com/bergio13/LTSF_Transformers_FreTS/blob/main/plots/Exhange-1-frets.png" style="width: 50%;" alt="FreTS Forecast - Exchange 1" />
+</div>
+
+<div align="center">
+    <img src="https://github.com/bergio13/LTSF_Transformers_FreTS/blob/main/plots/Exhange-1-frets.png" style="width: 50%;" alt="Other models Forecasts - Exchange 1" />
+</div>
+
 ## Acknowledgments
 
 The main papers we consider for our project are the following:
